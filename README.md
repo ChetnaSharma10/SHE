@@ -1,3 +1,3 @@
 # SHE
 this is my first Git Respository. 
-Author-Chetna
+Author-Chetna Sharma
