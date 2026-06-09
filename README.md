@@ -1,3 +1,3 @@
 # SHE
-a code report for javascript  series at connected 
+this is my first Git Respository. 
 Author-Chetna
